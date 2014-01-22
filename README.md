@@ -15,7 +15,7 @@ To convert from Hex to RGB:
   
 -------------------------
 
-This will also display the name of the closest color your current selection curtosy of Chir.ag (http://chir.ag/projects/name-that-color/#6195ED).
+This will also display the name of the closest color your current selection courtesy of Chir.ag (http://chir.ag/projects/name-that-color/#6195ED).
 
 -------------------------
 
