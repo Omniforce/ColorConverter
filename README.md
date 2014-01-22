@@ -3,7 +3,7 @@ ColorConverter
 
 RBG/Hex color converter that displays your colors
 
-This converts both from RGB to Gex as well as the other way around
+This converts both from RGB to Hex as well as the other way around
 
 To convert from RGB to Hex:
 Either:
