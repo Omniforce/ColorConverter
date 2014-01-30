@@ -21,5 +21,7 @@ This will also display the name of the closest color your current selection cour
 
 Idea and help from:
 Isaac Zarsky - http://www.isaaczarsky.com/ - https://github.com/isuro
+
 Alfred Ababio - http://ccs.neu.edu/home/ababioa - https://github.com/alfredababio
+
 Liam Trowel - http://bit.ly/1bakeKT
