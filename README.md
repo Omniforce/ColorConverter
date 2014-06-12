@@ -1,4 +1,4 @@
-ColorConverter
+ColorPicker
 ==============
 
 RBG/Hex color converter that displays your colors
